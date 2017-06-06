@@ -1,0 +1,5 @@
+- version en français : fait
+- supprimer dans QuizList\add_new la ligne radio button "Yes No" située entre "Allow to view correct answers..." et "Capture Photo" : fait
+- ajouter des questions avec options de réponses (scripts) 
+- tests unitaires sur toutes les fonctionnalités
+- customisation Oceane
