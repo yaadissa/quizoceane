@@ -5,4 +5,4 @@ REM ---Deploy the wwwroot folder in repository to default target (wwwroot)
 xcopy %DEPLOYMENT_SOURCE%\wwwroot\* %DEPLOYMENT_TARGET% /Y /s 
 
 REM ---Deploy the myapp folder in repository to folder above default target (wwwroot\..\myapp)
-xcopy %DEPLOYMENT_SOURCE%\Git\* %DEPLOYMENT_TARGET%\..\Git /Y /s 
+xcopy %DEPLOYMENT_SOURCE%\QuizOceane\* %DEPLOYMENT_TARGET%\..\QuizOceane /Y /s 
